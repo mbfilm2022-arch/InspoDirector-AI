@@ -1,0 +1,7 @@
+{
+  "name": "導演我最行 加強版 App (InspoDirector AI)",
+  "description": "Professional video production assistant that transforms abstract ideas into detailed, visual shooting scripts with AI-generated storyboard sketches.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
